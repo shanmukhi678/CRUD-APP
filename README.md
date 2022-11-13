@@ -46,13 +46,9 @@ Clone or download this repository
 
 Built with
 
-          Front-end
-
           ejs Google Maps APIs
 
           Bootstrap
-
-          Back-end
   
           express
 
